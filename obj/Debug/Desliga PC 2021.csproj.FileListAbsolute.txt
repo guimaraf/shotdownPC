@@ -1,0 +1,34 @@
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\bin\Debug\Desliga PC 2021.exe.config
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\bin\Debug\Desliga PC 2021.exe
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\bin\Debug\Desliga PC 2021.pdb
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\Desliga PC 2021.csproj.AssemblyReference.cache
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\Desliga_PC_2021.Form1.resources
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\Desliga_PC_2021.Properties.Resources.resources
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\Desliga PC 2021.csproj.GenerateResource.cache
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\Desliga PC 2021.csproj.CoreCompileInputs.cache
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\Desliga PC 2021.exe
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\Desliga PC 2021.pdb
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\bin\Debug\pt-BR\Desliga PC 2021.resources.dll
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\Desliga_PC_2021.Form1.pt-BR.resources
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\pt-BR\Desliga PC 2021.resources.dll
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\bin\Debug\Desliga PC 2021.exe.manifest
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\bin\Debug\Desliga PC 2021.application
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\Desliga PC 2021.exe.manifest
+D:\Backup 1tb 2020\Dev.Net\Desliga PC 2021\obj\Debug\Desliga PC 2021.application
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\bin\Debug\Desliga PC 2021.exe.config
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\bin\Debug\Desliga PC 2021.exe.manifest
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\bin\Debug\Desliga PC 2021.application
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\bin\Debug\Desliga PC 2021.exe
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\bin\Debug\Desliga PC 2021.pdb
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\bin\Debug\pt-BR\Desliga PC 2021.resources.dll
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\Desliga PC 2021.csproj.AssemblyReference.cache
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\Desliga_PC_2021.Form1.resources
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\Desliga_PC_2021.Properties.Resources.resources
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\Desliga_PC_2021.Form1.pt-BR.resources
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\Desliga PC 2021.csproj.GenerateResource.cache
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\Desliga PC 2021.csproj.CoreCompileInputs.cache
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\pt-BR\Desliga PC 2021.resources.dll
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\Desliga PC 2021.exe.manifest
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\Desliga PC 2021.application
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\Desliga PC 2021.exe
+D:\Backup 1tb 2020\Dev.Net\shutdownPC\obj\Debug\Desliga PC 2021.pdb
